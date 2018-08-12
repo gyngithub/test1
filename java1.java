@@ -1,3 +1,2 @@
-public void int();
+public void in1();
 public void post();
-public void get();
